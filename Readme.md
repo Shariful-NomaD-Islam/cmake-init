@@ -29,7 +29,7 @@ An Initializer point for cmake project
 * .\build\application\application.exe
 
 
-### Example project by ###
+### example-project-by ###
 
 * Shariful Islam
 
