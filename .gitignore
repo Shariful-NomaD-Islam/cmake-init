@@ -31,3 +31,7 @@
 *.exe
 *.out
 *.app
+
+# Output Folders
+build
+out
